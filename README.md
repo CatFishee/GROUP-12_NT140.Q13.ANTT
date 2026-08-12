@@ -193,8 +193,8 @@ Share: SharedFolder
 - Adaptive CPU usage (Stealth Mode vs. Aggressive Mode)
   + When CPU usage is low (<50%), enter Stealth mode, mining at reduced speed
   + When CPU usage is high (>=50%), enter Aggressive mode, mining at maximum speed
-  -> Blend in the environment, does not create sudden spikes in CPU usage
-  ->Sacrificing speed for stealth, ensuring long term profit from the victim
+  +-> Blend in the environment, does not create sudden spikes in CPU usage
+  +->Sacrificing speed for stealth, ensuring long term profit from the victim
 - Batch processing to avoid detection
 - Submits results to C&C Server
 - Performance counter monitoring
